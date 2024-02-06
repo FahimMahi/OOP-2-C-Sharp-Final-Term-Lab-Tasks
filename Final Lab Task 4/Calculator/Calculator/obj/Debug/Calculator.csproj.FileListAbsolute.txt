@@ -1,0 +1,22 @@
+C:\Users\h\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\h\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\h\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\h\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Semester\Summer 2022\OOP 2\Final Term\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\h\source\repos\FT6pt2\FT6pt2\obj\Debug\FT6pt2.csproj.AssemblyReference.cache
+C:\Users\h\source\repos\FT6pt2\FT6pt2\obj\Debug\FT6pt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\h\source\repos\FT6pt2\FT6pt2\obj\Debug\FT6pt2.csproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\FT6pt2\FT6pt2\bin\Debug\FT6pt2.exe.config
+C:\Users\h\source\repos\FT6pt2\FT6pt2\bin\Debug\FT6pt2.exe
+C:\Users\h\source\repos\FT6pt2\FT6pt2\bin\Debug\FT6pt2.pdb
+C:\Users\h\source\repos\FT6pt2\FT6pt2\obj\Debug\FT6pt2.exe
+C:\Users\h\source\repos\FT6pt2\FT6pt2\obj\Debug\FT6pt2.pdb
